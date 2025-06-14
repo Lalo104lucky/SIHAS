@@ -20,7 +20,6 @@ Brindar a los usuarios una plataforma para registrar sus hábitos diarios, recib
 | SIHAS | Aplicación de Registro de Hábitos Saludables |
 | Profesional de la Salud | Nutricionistas, entrenadores personales, etc. |
 | Gestión | Seguimiento y progreso de pacientes |
-| Asterisco (*) | Campo obligatorio |
 
 ---
 
